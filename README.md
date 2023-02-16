@@ -1,2 +1,2 @@
 # typescript
-Basic codes related to typescript PIAIC Quarter 1
+Basic codes related to typescript PIAIC Quater 1
